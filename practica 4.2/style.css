@@ -1,27 +1,18 @@
+.fondo {
+    background-color: rgb(238, 161, 122);
 
-.colordefondo {
-    background-color: navajowhite;
 }
-.centrado{
-    color: maroon;
+
+h1#titulo {
     text-align: center;
-    font-weight: 600;
-   
+    color: brown;
 }
-a.cafe {
+section.centrado {
+   position: relative;
+   right: -37%;
+}
+section.derecha {
+  position: relative;
     position: relative;
-    top: 25px;
-    right: -300px;
-}
-
-a.contacto {  
-    position: relative;
-    top: 50px;
-    right: -700px;
-}
-.textolacarta {
-    color: darkred;
-}
-.textoelcafe {
-    color: red;
+    right: -80%;
 }

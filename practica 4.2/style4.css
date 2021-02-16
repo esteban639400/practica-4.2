@@ -1,0 +1,33 @@
+header#titulo {
+    text-align: center;
+    color: brown;
+}
+body.fondo {
+    background-color: rgb(238, 161, 122);
+
+}
+img#instagram {
+    position: relative;
+    right: -55%;
+    top: 25px;    
+}
+img#twitter {
+
+    position: relative;
+    right: -30%;
+    top: 15px;
+}
+img#whatsapp {
+    position: relative;
+    right: -34%;
+}
+h2.texto {
+    text-align: center;
+}
+p.volver {
+    text-align: center;
+}
+iframe.hola {
+    position: relative;
+    right: -30%;
+}

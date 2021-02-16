@@ -1,0 +1,14 @@
+.fondo {
+    background-color: rgb(238, 161, 122);
+}
+
+header#titulo {
+    text-align: center;
+    color: rgb(105, 32, 32);
+ }
+ section.texto {
+     color: brown;
+ }
+ p.volver {
+    text-align: center;
+}
